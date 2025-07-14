@@ -1,1 +1,1 @@
- # FreeFire-100-FPS
+ # FreeFire-80-FPS
